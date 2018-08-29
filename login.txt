@@ -1,0 +1,8 @@
+User Login E-mail: user@abc.com
+User Login Password: 123456
+
+Admin Login E-mail: admin@abc.com
+Admin Login Password: 123456
+
+If you want to setup, firstly you have to look e-ticaret/nedmin/netting/baglan.php
+You need to change username and password in this folder
