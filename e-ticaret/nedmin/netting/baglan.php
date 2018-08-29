@@ -2,7 +2,7 @@
 
 try{
 
-	$db=new PDO("mysql:host=localhost;dbname=eticaret;charset=utf8",'root','6lbkdb99k');
+	$db=new PDO("mysql:host=localhost;dbname=eticaret;charset=utf8",'username','password');
 
 // echo "Veritabanı bağlantısı başarılı";
 
